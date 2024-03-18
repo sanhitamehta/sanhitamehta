@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanhitamehta
-- 👀 I’m interested in bioinformatics and data analytics
+- 👀 I’m interested in computational biochemistry and data analytics.
 - 🌱 I’m currently learning Python and Applied Bioinformatics.
 - 📫 How to reach me: sanhitasubodhmehta@gmail.com
 
