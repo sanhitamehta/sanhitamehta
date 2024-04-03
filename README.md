@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanhitamehta
 - 👀 I’m interested in computational biochemistry and data analytics.
-- 🌱 I’m currently learning Python and Applied Bioinformatics.
+- 🌱 I’m currently learning Python and R.
 - 📫 How to reach me: sanhitasubodhmehta@gmail.com
 
 <!---
