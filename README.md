@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sanhitamehta
+- 👋 Hi, I’m @sanhitamehta, a medical student at UNSW Sydney.
 - 👀 I’m interested in computational biochemistry and data analytics.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently working on my Python and R.
 - 📫 How to reach me: sanhitasubodhmehta@gmail.com
 
 <!---
